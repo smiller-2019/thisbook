@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS digital_exercisebook_db;
+CREATE DATABASE digital_exercisebook_db;
